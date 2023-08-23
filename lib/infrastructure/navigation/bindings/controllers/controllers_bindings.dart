@@ -1,0 +1,1 @@
+export 'package:islamku/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
